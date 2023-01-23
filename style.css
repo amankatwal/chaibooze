@@ -95,7 +95,8 @@ z-index: 1;
 #menu{
   text-align: center;
 
-  background: url('https://content3.jdmagicbox.com/comp/una-himachal_pradesh/k9/9999p1975.1975.220530184143.d7k9/catalogue/chai-booze-una-ho-una-himachal-pradesh-cold-drink-parlours-l52gyxr6vv.jpg');
+  background: url('https://content3.jdmagicbox.com/comp/una-himachal_pradesh/k9/9999p1975.1975.220530184143.d7k9/catalogue/chai-booze-una-ho-una-himachal-pradesh-cold-drink-parlours-l52gyxr6vv.
+      ');
   color:#F5F5F5;
 }
 .menu-bar{
@@ -142,7 +143,7 @@ lh{
 /* Review section */
 
 #review{
-  background-image: url("images/kesar.jpg");
+  background-image: url("kesar.jpg");
   height: 80vh;
   width: 100%;
   background-size: cover;
